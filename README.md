@@ -80,45 +80,45 @@ $ gistup -m "lab${LAB_NUMBER}" # enter: yes↵
 
 ### Unix commands
 
-- [ar](https://en.wikipedia.org/wiki/Ar_(Unix))
-- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
-- [cd](https://en.wikipedia.org/wiki/Cd_(command))
-- [cp](https://en.wikipedia.org/wiki/Cp_(Unix))
-- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
-- [echo](https://en.wikipedia.org/wiki/Echo_(command))
-- [env](https://en.wikipedia.org/wiki/Env_(shell))
-- [ex](https://en.wikipedia.org/wiki/Ex_(editor))
-- [file](https://en.wikipedia.org/wiki/File_(command))
-- [find](https://en.wikipedia.org/wiki/Find)
-- [ls](https://en.wikipedia.org/wiki/Ls)
-- [man](https://en.wikipedia.org/wiki/Man_page)
-- [mkdir](https://en.wikipedia.org/wiki/Mkdir)
-- [mv](https://en.wikipedia.org/wiki/Mv)
-- [nm](https://en.wikipedia.org/wiki/Nm_(Unix))
-- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
-- [pwd](https://en.wikipedia.org/wiki/Pwd)
-- [rm](https://en.wikipedia.org/wiki/Rm_(Unix))
-- [sed](https://en.wikipedia.org/wiki/Sed)
-- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))
+- [ar](https://en.wikipedia.org/wiki/Ar_(Unix))-архиватор
+- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))-выводит содержимое файлов в единый поток
+- [cd](https://en.wikipedia.org/wiki/Cd_(command))-смена рабочей директории
+- [cp](https://en.wikipedia.org/wiki/Cp_(Unix))-копирование файла или каталога
+- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))-выбирает нужную часть из каждой строки файла
+- [echo](https://en.wikipedia.org/wiki/Echo_(command))-выводит текстовую строку в терминал
+- [env](https://en.wikipedia.org/wiki/Env_(shell))-печать списка переменных среды
+- [ex](https://en.wikipedia.org/wiki/Ex_(editor))-онлайн-редактор
+- [file](https://en.wikipedia.org/wiki/File_(command))-отображает тип данных в файле
+- [find](https://en.wikipedia.org/wiki/Find)-поиск файлов в директории
+- [ls](https://en.wikipedia.org/wiki/Ls)-вывод всех каталогов и файлов текущей директории
+- [man](https://en.wikipedia.org/wiki/Man_page)-отображение информации о команде и др.
+- [mkdir](https://en.wikipedia.org/wiki/Mkdir)-создание нового каталога
+- [mv](https://en.wikipedia.org/wiki/Mv)-перемещение файла или каталога
+- [nm](https://en.wikipedia.org/wiki/Nm_(Unix))-проверка файлов и отображение их содержимого
+- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))-вывод активных процессов
+- [pwd](https://en.wikipedia.org/wiki/Pwd)-отображение текущей рабочей директории
+- [rm](https://en.wikipedia.org/wiki/Rm_(Unix))-удаление файла/каталога
+- [sed](https://en.wikipedia.org/wiki/Sed)-редактор потока данных для автоматического редактирования текстов
+- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))-изменяет дату доступа и изменения файла
 
 ### Package Managers
 
-- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru)
-- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh)
-- [npm](https://docs.npmjs.com)
+- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru)- установка и управление программными пакетами
+- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh)-(brew-Mac,linuxbrew-Linux)-установка нужных пользователю пакетов
+- [npm](https://docs.npmjs.com)-пакетный менеджер для nodejs
 
 ### Software
 
-- [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
-- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
-- [clang](https://clang.llvm.org)
-- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
-- [make](https://en.wikipedia.org/wiki/Make_(software))
-- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)
-- [openssl](https://www.openssl.org)
-- [nano](https://www.nano-editor.org)
-- [tree](https://linux.die.net/man/1/tree)
-- [vim](http://www.vim.org)
+- [curl](https://www.gitbook.com/book/bagder/everything-curl/details)-утилита для работы с URL страницами и передачи файлов
+- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)-загружает файлы 
+- [clang](https://clang.llvm.org)-компилятор
+- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)-компилятор
+- [make](https://en.wikipedia.org/wiki/Make_(software))-создание программ из исходного кода
+- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)-открывает файл
+- [openssl](https://www.openssl.org)-криптографическая библиотека
+- [nano](https://www.nano-editor.org)-текстовый редактор(консольный)
+- [tree](https://linux.die.net/man/1/tree)графическое представление структуры папок(в виде дерева)
+- [vim](http://www.vim.org)-текстовый редактор
 
 ```
 Copyright (c) 2017 Братья Вершинины
